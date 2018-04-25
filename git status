@@ -1,0 +1,53 @@
+[33mcommit 49d833eb3f816a7f53bf8894c9e1307a7ce015af[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 16e8989 5e42f7a
+Author: 泽锐 欧阳 <ouyangzerui@live.com>
+Date:   Sun Apr 22 23:23:55 2018 +0800
+
+    conflict fixed
+
+[33mcommit 16e898931a6b89f506410f0a638dab462b5d99d7[m
+Author: 泽锐 欧阳 <ouyangzerui@live.com>
+Date:   Sun Apr 22 23:19:15 2018 +0800
+
+    & simple
+
+[33mcommit 5e42f7a60e26aa93e815fda7080f3333930285a7[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: 泽锐 欧阳 <ouyangzerui@live.com>
+Date:   Sun Apr 22 23:17:23 2018 +0800
+
+    and simple
+
+[33mcommit dc36d3854da68ce6bb92e1af10fddd9a9c5155fd[m
+Author: 泽锐 欧阳 <ouyangzerui@live.com>
+Date:   Sun Apr 22 19:57:39 2018 +0800
+
+    branch test
+
+[33mcommit 372289add32068e2dfcc1aa027d30277c7945fb9[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 泽锐 欧阳 <ouyangzerui@live.com>
+Date:   Sun Apr 22 19:52:59 2018 +0800
+
+    add 3 files
+
+[33mcommit 11a72a83f34eb248cc1e64d31198bff97c4cdfc1[m
+Merge: 082dea2 bd107ad
+Author: ouyangzerui <37364517+ouyangzerui@users.noreply.github.com>
+Date:   Wed Mar 14 17:51:13 2018 +0800
+
+    Merge pull request #1 from ouyangzerui/readme-edits
+    
+    Update README.md
+
+[33mcommit bd107ad18b675dd2720139541d5b5e63bd753320[m
+Author: ouyangzerui <37364517+ouyangzerui@users.noreply.github.com>
+Date:   Wed Mar 14 17:47:25 2018 +0800
+
+    Update README.md
+    
+    bla,bla,bla...
+
+[33mcommit 082dea21c9b7431404c7f776ebbc5e4156510b5e[m
+Author: ouyangzerui <37364517+ouyangzerui@users.noreply.github.com>
+Date:   Wed Mar 14 17:42:14 2018 +0800
+
+    Initial commit
